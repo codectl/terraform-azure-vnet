@@ -1,0 +1,11 @@
+name: linting
+
+on:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  linting:
+    uses: codectl/flume/.github/workflows/linting.yml@main

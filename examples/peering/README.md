@@ -1,0 +1,1 @@
+This example demonstrates bidirectional virtual network peering between two networks: a local virtual network and a remote virtual network. The configuration ensures seamless connectivity between both networks.
